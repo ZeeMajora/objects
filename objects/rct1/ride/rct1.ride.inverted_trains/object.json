@@ -10,7 +10,7 @@
         "category": "rollercoaster",
         "limitAirTimeBonus": true,
         "minCarsPerTrain": 2,
-        "maxCarsPerTrain": 8,
+        "maxCarsPerTrain": 10,
         "carColours": [
             [
                 ["yellow", "black", "black"]

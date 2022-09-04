@@ -10,7 +10,7 @@
         "category": "rollercoaster",
         "limitAirTimeBonus": true,
         "minCarsPerTrain": 4,
-        "maxCarsPerTrain": 7,
+        "maxCarsPerTrain": 8,
         "ratingMultipler": {
             "excitement": 8,
             "intensity": 12,
